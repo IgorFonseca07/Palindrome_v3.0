@@ -1,0 +1,13 @@
+C:\Users\Caveira\Documents\MeusRepositoriosPublicos_Git&GitHub\Palindrome_v3.0\Palindrome_v3.0\bin\Debug\netcoreapp3.1\Palindrome_v3.0.exe
+C:\Users\Caveira\Documents\MeusRepositoriosPublicos_Git&GitHub\Palindrome_v3.0\Palindrome_v3.0\bin\Debug\netcoreapp3.1\Palindrome_v3.0.deps.json
+C:\Users\Caveira\Documents\MeusRepositoriosPublicos_Git&GitHub\Palindrome_v3.0\Palindrome_v3.0\bin\Debug\netcoreapp3.1\Palindrome_v3.0.runtimeconfig.json
+C:\Users\Caveira\Documents\MeusRepositoriosPublicos_Git&GitHub\Palindrome_v3.0\Palindrome_v3.0\bin\Debug\netcoreapp3.1\Palindrome_v3.0.runtimeconfig.dev.json
+C:\Users\Caveira\Documents\MeusRepositoriosPublicos_Git&GitHub\Palindrome_v3.0\Palindrome_v3.0\bin\Debug\netcoreapp3.1\Palindrome_v3.0.dll
+C:\Users\Caveira\Documents\MeusRepositoriosPublicos_Git&GitHub\Palindrome_v3.0\Palindrome_v3.0\bin\Debug\netcoreapp3.1\Palindrome_v3.0.pdb
+C:\Users\Caveira\Documents\MeusRepositoriosPublicos_Git&GitHub\Palindrome_v3.0\Palindrome_v3.0\obj\Debug\netcoreapp3.1\Palindrome_v3.0.csprojAssemblyReference.cache
+C:\Users\Caveira\Documents\MeusRepositoriosPublicos_Git&GitHub\Palindrome_v3.0\Palindrome_v3.0\obj\Debug\netcoreapp3.1\Palindrome_v3.0.AssemblyInfoInputs.cache
+C:\Users\Caveira\Documents\MeusRepositoriosPublicos_Git&GitHub\Palindrome_v3.0\Palindrome_v3.0\obj\Debug\netcoreapp3.1\Palindrome_v3.0.AssemblyInfo.cs
+C:\Users\Caveira\Documents\MeusRepositoriosPublicos_Git&GitHub\Palindrome_v3.0\Palindrome_v3.0\obj\Debug\netcoreapp3.1\Palindrome_v3.0.csproj.CoreCompileInputs.cache
+C:\Users\Caveira\Documents\MeusRepositoriosPublicos_Git&GitHub\Palindrome_v3.0\Palindrome_v3.0\obj\Debug\netcoreapp3.1\Palindrome_v3.0.dll
+C:\Users\Caveira\Documents\MeusRepositoriosPublicos_Git&GitHub\Palindrome_v3.0\Palindrome_v3.0\obj\Debug\netcoreapp3.1\Palindrome_v3.0.pdb
+C:\Users\Caveira\Documents\MeusRepositoriosPublicos_Git&GitHub\Palindrome_v3.0\Palindrome_v3.0\obj\Debug\netcoreapp3.1\Palindrome_v3.0.genruntimeconfig.cache
